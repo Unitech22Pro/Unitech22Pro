@@ -4,12 +4,10 @@
 I’m currently a junior pursuing my degree in cybersecurity at Western Governors University, driven by a strong passion for understanding how systems work—and how to secure them. 
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My goal is to apply and expand my knowledge of cybersecurity by gaining valuble hands-on experience in ethical hacking, digital defense, and network security. I aim to contribute to secure and resilient systems while continuing to learn and grow within the ever-evolving landscape of information security. I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -21,7 +19,6 @@ My goal is to apply and expand my knowledge of cybersecurity by gaining valuble 
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -44,7 +41,7 @@ My goal is to apply and expand my knowledge of cybersecurity by gaining valuble 
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
