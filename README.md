@@ -50,7 +50,7 @@ My goal is to apply and expand my knowledge of cybersecurity by gaining valuble 
 
 ## Projects
 - 🛡️ SOC EZ Tool  
-[View Repo](https://github.com/jaquancromartie/soc-ez-tool)
+[View Repo](https://github.com/Unitech22Pro/soc-ez-tool)
 
 A log analysis and threat intelligence tool that extracts IPs from logs, checks their reputation using VirusTotal, and auto-generates Markdown reports.
 
