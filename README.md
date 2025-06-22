@@ -49,5 +49,10 @@ My goal is to apply and expand my knowledge of cybersecurity by gaining valuble 
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- 🛡️ SOC EZ Tool  
+[View Repo](https://github.com/jaquancromartie/soc-ez-tool)
+
+A log analysis and threat intelligence tool that extracts IPs from logs, checks their reputation using VirusTotal, and auto-generates Markdown reports.
+
+**Skills Demonstrated:** Python scripting, log parsing, API integration, report automation, secure credential handling.
+
