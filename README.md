@@ -56,3 +56,10 @@ A log analysis and threat intelligence tool that extracts IPs from logs, checks 
 
 **Skills Demonstrated:** Python scripting, log parsing, API integration, report automation, secure credential handling.
 
+- 🔎 Lite-Vulnscanner
+
+  [View Repo](https://github.com/Unitech22Pro/lite-vulnscanner)
+
+A lightweight Python-based vulnerability scanner. This tool performs basic TCP port scanning on target IP addresses and generates a scan report with open ports and scan duration.
+
+
