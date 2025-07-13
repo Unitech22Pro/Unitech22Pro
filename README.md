@@ -5,18 +5,18 @@ I’m currently a junior pursuing my degree in cybersecurity at Western Governor
 
 ## Objective
 
-My goal is to apply and expand my knowledge of cybersecurity by gaining valuble hands-on experience in ethical hacking, digital defense, and network security. I aim to contribute to secure and resilient systems while continuing to learn and grow within the ever-evolving landscape of information security. I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Aspiring cybersecurity professional eager to apply and deepen hands-on skills in ethical hacking, digital defense, and network security. Actively building practical experience through lab projects and real-world simulations to contribute effectively to secure and resilient systems. Committed to continuous learning and growth within the rapidly evolving information security landscape. Seeking to launch my career as a Tier 1 Security Operations Center (SOC) Analyst or Information Security Analyst, bringing strong motivation and foundational knowledge to a dynamic security team.
 
 ## Skills
 
-| Skill                                         | Associated Project         |
+| Active Skill Hunting 🎯                                         | Associated Projects in Progress         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| OSSEC SIEM Agent-Manager Deployment (Windows + Linux VMs)          | <a href="https://github.com/Unitech22Pro/OSSEC_VMclient-manager/blob/main/screenshots/OSSEC%20SIEM%20Agent-Manager%20Deployment%20(Windows%20%2B%20Linux%20VMs">View Project</a>|
+| Network Traffic Monitoring and Attack Detection | In Progress|
+| Security Automation with Shuffle SOAR         | In Progress|
+| Incident Response Planning and Execution      | In Progress|
+| Case Management with TheHive                  | In Progress|
+| Scripting and Automation for Threat Mitigation | In Progress|
 
 ## Tools
 
