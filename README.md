@@ -12,7 +12,7 @@ Aspiring cybersecurity professional eager to apply and deepen hands-on skills in
 | Active Skill Hunting 🎯                                         | Associated Projects in Progress         |
 |-----------------------------------------------|----------------------------|
 | OSSEC SIEM Agent-Manager Deployment (Windows + Linux VMs)          | <a href="https://github.com/Unitech22Pro/OSSEC_VMclient-manager/blob/main/screenshots/OSSEC%20SIEM%20Agent-Manager%20Deployment%20(Windows%20%2B%20Linux%20VMs">View Project</a>|
-| Network Traffic Monitoring and Attack Detection | In Progress|
+|Keycloak IAM Lab: Role-Based Access Control and Authentication Simulation | <a href="https://github.com/Unitech22Pro/Keycloak-IAMLab">View Project</a>|
 | Security Automation with Shuffle SOAR         | In Progress|
 | Incident Response Planning and Execution      | In Progress|
 | Case Management with TheHive                  | In Progress|
