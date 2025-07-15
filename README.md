@@ -1,22 +1,22 @@
 # Hello, I'm Jaquan Cromartie
 <a href="https://www.linkedin.com/in/jaquancromartie/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I’m currently a junior pursuing my degree in cybersecurity at Western Governors University, driven by a strong passion for understanding how systems work—and how to secure them. 
+I'm a junior cybersecurity student at Western Governors University with a strong passion for system defense, threat analysis, and building secure environments.
 
 ## Objective
 
-Aspiring cybersecurity professional eager to apply and deepen hands-on skills in ethical hacking, digital defense, and network security. Actively building practical experience through lab projects and real-world simulations to contribute effectively to secure and resilient systems. Committed to continuous learning and growth within the rapidly evolving information security landscape. Seeking to launch my career as a Tier 1 Security Operations Center (SOC) Analyst or Information Security Analyst, bringing strong motivation and foundational knowledge to a dynamic security team.
+As a aspiring cybersecurity professional focused on Security Operations Center (SOC) and incident response roles. I’m actively building hands-on experience through lab environments that simulate real-world scenarios, including log analysis, threat detection, and mitigation techniques. My goal is to apply and expand my knowledge in identifying, analyzing, and responding to security events that may impact the confidentiality, integrity, or availability of systems. I aim to contribute to an enterprise-level security team by leveraging my growing skills in event triage, alert correlation, and use of ticketing systems to document and escalate incidents in accordance with standard response frameworks like CSIRC. Eager to support a mission-driven team as a Tier 1 SOC Analyst or Information Security Analyst.
 
 ## Skills
 
-| Active Skill Hunting 🎯                                         | Associated Projects in Progress         |
+| Current Skills 🎯                                         | Associated Projects        |
 |-----------------------------------------------|----------------------------|
 | OSSEC SIEM Agent-Manager Deployment (Windows + Linux VMs)          | <a href="https://github.com/Unitech22Pro/OSSEC_VMclient-manager/blob/main/screenshots/OSSEC%20SIEM%20Agent-Manager%20Deployment%20(Windows%20%2B%20Linux%20VMs">View Project</a>|
 |Keycloak IAM Lab: Role-Based Access Control and Authentication Simulation | <a href="https://github.com/Unitech22Pro/Keycloak-IAMLab">View Project</a>|
-| Security Automation with Shuffle SOAR         | In Progress|
-| Incident Response Planning and Execution      | In Progress|
-| Case Management with TheHive                  | In Progress|
-| Scripting and Automation for Threat Mitigation | In Progress|
+| Splunk Threat Detection & Log Analysis Lab         | In Progress|
+| Network Traffic Monitoring with Zeek & Wireshark      | In Progress|
+| MITRE ATT&CK Mapping      | In Progress|
+| Phishing Email Analysis with Python and Regex | In Progress|
 
 ## Tools
 
