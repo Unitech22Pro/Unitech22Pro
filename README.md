@@ -11,7 +11,7 @@ As a aspiring cybersecurity professional focused on Security Operations Center (
 
 | Current Skills 🎯                                         | Associated Projects        |
 |-----------------------------------------------|----------------------------|
-| OSSEC SIEM Agent-Manager Deployment (Windows + Linux VMs)          | <a href="https://github.com/Unitech22Pro/OSSEC_VMclient-manager/blob/main/screenshots/OSSEC%20SIEM%20Agent-Manager%20Deployment%20(Windows%20%2B%20Linux%20VMs">View Project</a>|
+| OSSEC SIEM Agent-Manager Deployment (Windows + Linux VMs)          | <a href="https://github.com/Unitech22Pro/OSSEC_VMclient-manager.git" >View Project</a>|
 |Keycloak IAM Lab: Role-Based Access Control and Authentication Simulation | <a href="https://github.com/Unitech22Pro/Keycloak-IAMLab">View Project</a>|
 | Splunk Threat Detection & Log Analysis Lab         | In Progress|
 | Network Traffic Monitoring with Zeek & Wireshark      | In Progress|
