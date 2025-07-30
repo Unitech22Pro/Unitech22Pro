@@ -1,11 +1,12 @@
 # Hello, I'm Jaquan Cromartie
 <a href="https://www.linkedin.com/in/jaquancromartie/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm a junior cybersecurity student at Western Governors University with a strong passion for system defense, threat analysis, and building secure environments.
+Junior IT student at Western Governors University with a strong passion for systems administration, troubleshooting, and building efficient, secure environments. Developing skills in network management, technical support, and systems security, with a focus on delivering practical solutions in real-world IT operations.
 
 ## Objective
 
-As a aspiring cybersecurity professional focused on Security Operations Center (SOC) and incident response roles. I’m actively building hands-on experience through lab environments that simulate real-world scenarios, including log analysis, threat detection, and mitigation techniques. My goal is to apply and expand my knowledge in identifying, analyzing, and responding to security events that may impact the confidentiality, integrity, or availability of systems. I aim to contribute to an enterprise-level security team by leveraging my growing skills in event triage, alert correlation, and use of ticketing systems to document and escalate incidents in accordance with standard response frameworks like CSIRC. Eager to support a mission-driven team as a Tier 1 SOC Analyst or Information Security Analyst.
+IT Professional with a strong foundation in cybersecurity, systems administration, and technical support. Former Air Traffic Controller with a military background and over 5 years of experience in information technology and systems, recognized for performing under pressure in fast-paced, mission-critical environments. Skilled in troubleshooting hardware/software issues, user support, network configuration, and endpoint security across Windows and Linux platforms. Hands-on experience with leading tools such as Microsoft Defender, Splunk, Wazuh, and Zeek, with working knowledge of ticketing systems, remote desktop tools, and Active Directory. Proficient in Python scripting for automation and task optimization. Certified in CompTIA A+, Network+, Security+, and Linux Essentials. Familiar with ITIL processes, cybersecurity best practices, and ISO 27001 compliance.
+A self-motivated, solutions-oriented professional with strong interpersonal skills and a passion for both IT support and security operations. Actively seeking entry-level roles in IT support, help desk, desktop support, or SOC analyst environments to contribute technical knowledge, real-time decision-making, and disciplined problem-solving to enterprise operations.
 
 ## Skills
 
@@ -63,5 +64,19 @@ A log analysis and threat intelligence tool that extracts IPs from logs, checks 
   [View Repo](https://github.com/Unitech22Pro/lite-vulnscanner)
 
 A lightweight Python-based vulnerability scanner. This tool performs basic TCP port scanning on target IP addresses and generates a scan report with open ports and scan duration.
+
+**Skills Demonstrated:** Python scripting, Network scanning, Port scanning, Vulnerability assessment, CVE identification, Banner grabbing, Report generation, Nmap integration, OWASP Top 10 awareness, Basic automation, Cybersecurity tool development, CLI tool design.
+
+- 🖥️ OSSEC SIEM Agent-Manager Deployment
+
+This lab simulates an enterprise-like environment by deploying an OSSEC Manager on a Linux VM and an OSSEC Agent on a Windows VM, configured to securely communicate in a host-only virtual network.
+
+**Skills Demonstrated:** Security Information and Event Management (SIEM), Host-based Intrusion Detection System (HIDS), Log monitoring, File Integrity Monitoring (FIM), Real-time alerting, Centralized log forwarding, Basic rule tuning, System event correlation, Syslog configuration, Linux command-line and system administration.
+
+- 🥸 Keycloak IAM lab with RBAC and Authentication
+
+This lab simulates an IAM solution using Keycloak deployed locally via Docker.
+
+**Skills Demonstrated:** Identity and Access Management (IAM), OAuth2 and OpenID Connect, Single Sign-On (SSO), Access token handling, Role-based access control (RBAC), API testing with curl/Postman, Docker and containerization, Secure authentication workflows, Basic user provisioning, Security best practices awareness.
 
 
