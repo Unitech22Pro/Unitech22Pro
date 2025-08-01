@@ -52,8 +52,19 @@ A self-motivated, solutions-oriented professional with strong interpersonal skil
 </div>
 
 ## Projects
-- 🛡️ SOC EZ Tool  
-[View Repo](https://github.com/Unitech22Pro/soc-ez-tool)
+
+
+- 🖥️ Azure VM Active Directory Setup|User Onboard|Password Reset Walkthrough
+
+  [View Repo](https://github.com/Unitech22Pro/ad-helpdesk-lab)
+
+ Project simulates a realistic IT environment using Microsoft Azure and Windows Server 2019 to deploy and configure an Active Directory Domain Controller (AD DC) and a Windows 10 client VM. It demonstrates key systems administration and help desk support skills by walking through domain setup, client domain joining, user management, and password reset scenarios.
+
+ **Skills Demonstrated:** Active Directory management, Password reset procedures, User account unlock, Enforce password change at next login, Help desk communication, Windows Server administration, Domain troubleshooting, User identity verification, Ticket resolution, Technical documentation, Tier 1 IT support skills
+ 
+- 🛡️ SOC EZ Tool
+
+  [View Repo](https://github.com/Unitech22Pro/soc-ez-tool)
 
 A log analysis and threat intelligence tool that extracts IPs from logs, checks their reputation using VirusTotal, and auto-generates Markdown reports.
 
@@ -69,12 +80,16 @@ A lightweight Python-based vulnerability scanner. This tool performs basic TCP p
 
 - 🖥️ OSSEC SIEM Agent-Manager Deployment
 
+  [View Repo](https://github.com/Unitech22Pro/OSSEC_VMclient-manager)
+
 This lab simulates an enterprise-like environment by deploying an OSSEC Manager on a Linux VM and an OSSEC Agent on a Windows VM, configured to securely communicate in a host-only virtual network.
 
 **Skills Demonstrated:** Security Information and Event Management (SIEM), Host-based Intrusion Detection System (HIDS), Log monitoring, File Integrity Monitoring (FIM), Real-time alerting, Centralized log forwarding, Basic rule tuning, System event correlation, Syslog configuration, Linux command-line and system administration.
-
+ 
 - 🥸 Keycloak IAM lab with RBAC and Authentication
 
+  [View Repo](https://github.com/Unitech22Pro/Keycloak-IAMLab)
+ 
 This lab simulates an IAM solution using Keycloak deployed locally via Docker.
 
 **Skills Demonstrated:** Identity and Access Management (IAM), OAuth2 and OpenID Connect, Single Sign-On (SSO), Access token handling, Role-based access control (RBAC), API testing with curl/Postman, Docker and containerization, Secure authentication workflows, Basic user provisioning, Security best practices awareness.
