@@ -14,7 +14,7 @@ A self-motivated, solutions-oriented professional with strong interpersonal skil
 |-----------------------------------------------|----------------------------|
 | OSSEC SIEM Agent-Manager Deployment (Windows + Linux VMs)          | <a href="https://github.com/Unitech22Pro/OSSEC_VMclient-manager.git" >View Project</a>|
 |Keycloak IAM Lab: Role-Based Access Control and Authentication Simulation | <a href="https://github.com/Unitech22Pro/Keycloak-IAMLab">View Project</a>|
-| Splunk Threat Detection & Log Analysis Lab         | In Progress|
+| Azure Sentinel BruteForce Detection Lab         | In Progress|
 | Network Traffic Monitoring with Zeek & Wireshark      | In Progress|
 | MITRE ATT&CK Mapping      | In Progress|
 | Phishing Email Analysis with Python and Regex | In Progress|
